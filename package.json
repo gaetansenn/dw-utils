@@ -1,0 +1,32 @@
+{
+  "name": "@dewib/dw-utils",
+  "version": "1.0.0",
+  "description": "Dewib utils for NuxtJS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaetansenn/dw-utils.git"
+  },
+  "keywords": [
+    "nuxtjs",
+    "utils"
+  ],
+  "author": "Gaetan SENN (Dewib)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaetansenn/dw-utils/issues"
+  },
+  "homepage": "https://github.com/gaetansenn/dw-utils#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@nuxtjs/eslint-config": "^3.1.0",
+    "@nuxtjs/eslint-module": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.10.0",
+    "eslint-plugin-nuxt": "^1.0.0"
+  }
+}
